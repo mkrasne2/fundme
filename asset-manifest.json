@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/fundme/static/css/main.e920e6d6.css",
+    "main.js": "/fundme/static/js/main.183bda89.js",
+    "static/media/polygonlogo.png": "/fundme/static/media/polygonlogo.6cde40a9b9119621eb2b.png",
+    "index.html": "/fundme/index.html",
+    "main.e920e6d6.css.map": "/fundme/static/css/main.e920e6d6.css.map",
+    "main.183bda89.js.map": "/fundme/static/js/main.183bda89.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e920e6d6.css",
+    "static/js/main.183bda89.js"
+  ]
+}
