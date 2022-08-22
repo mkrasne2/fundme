@@ -1,6 +1,6 @@
 # About Fundme
 
-A few details about this project
+A few details about this crowdfunding project
 
 ## Clonefactory Method
 
